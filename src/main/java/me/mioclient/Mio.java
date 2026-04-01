@@ -24,7 +24,7 @@ public class Mio {
 
     public static final String MODID = "mioclient.me";
     public static final String MODVER = "v0.6.9-pub";
-    public static final String VERHASH = GitUtil.GIT_SHA.substring(0, 12);
+    public static final String VERHASH = "dev";
     public static final Logger LOGGER = LogManager.getLogger("Mio");
 
     public static void load() {
